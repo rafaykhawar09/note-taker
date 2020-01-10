@@ -29,7 +29,9 @@ html, body {
 }
 
 .note-title {
-  height: 15vw;
+  height: 20vh;
+  display: flex;
+  flex-wrap: wrap;
   margin-top: 13px;
   font-size: 3rem;
 }
